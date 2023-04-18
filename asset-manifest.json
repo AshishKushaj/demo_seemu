@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/demo_seemu/static/css/main.e8d0050e.css",
+    "main.js": "/demo_seemu/static/js/main.8bbb5169.js",
+    "index.html": "/demo_seemu/index.html",
+    "main.e8d0050e.css.map": "/demo_seemu/static/css/main.e8d0050e.css.map",
+    "main.8bbb5169.js.map": "/demo_seemu/static/js/main.8bbb5169.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8d0050e.css",
+    "static/js/main.8bbb5169.js"
+  ]
+}
